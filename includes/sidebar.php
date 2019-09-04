@@ -46,7 +46,7 @@ foreach($results as $result)
 
                 </ul>
                 <div class="footer">
-                    <p class="copyright"><a href="https://www.cole.mx/">Cole Collection</a> ©</p>
+                    <p>Cole Collection</a> ©</p>
 
                 </div>
                 </div>

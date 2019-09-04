@@ -49,7 +49,7 @@
                             </a>
                         </section>
                         <div class="header-title col s3">      
-                            <span class="chapter-title">tusolutionweb tutos | Admin</span>
+                            <span class="chapter-title">Panel de inicio</span>
                         </div>
                      
                 
