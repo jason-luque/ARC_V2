@@ -39,7 +39,7 @@ $error="Your current password is wrong";
     <head>
         
         <!-- Title -->
-        <title>Empleado | Cambia la contraseña</title>
+        <title>Todas las órdenes | arc501le</title>
         <link rel="icon" type="image/png" href="images/faviconcole.png" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
